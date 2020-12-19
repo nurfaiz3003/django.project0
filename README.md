@@ -1,4 +1,4 @@
-# Simple Django App Exercise
+# Simple Django App (CS50 Web Prog Problem)
 
 # hello/
 Greet with name fetched from url.
